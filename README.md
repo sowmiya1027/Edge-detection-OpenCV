@@ -39,10 +39,6 @@ Display the edge-detected images using Matplotlib.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
-
-**Register Number:** 212225240146
-
 ```python
 import cv2
 import numpy as np
